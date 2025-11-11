@@ -25,9 +25,5 @@ jobs:
 
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
-        with:
-          target: gh-pages
-          # The command runs 'quarto render' and prepares the output.
-          # The output goes directly into the '_site' folder.
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
