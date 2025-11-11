@@ -8,11 +8,11 @@ website:
       - text: "Home"
         href: index.qmd
       - text: "About"
-        about.qmd
+        href: about.qmd
       - text: "Projects"
-        projects.qmd
+        href: projects.qmd
       - text: "Contact"
-        contact.qmd
+        href: contact.qmd
       
 page-footer:
   left: "Phillipa Gowdy-Jaehnig"
