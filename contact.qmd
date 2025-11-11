@@ -1,7 +1,11 @@
 title: "Get In Touch"
+
 #Contact Information
+
 I welcome professional inquiries, collaboration ideas, or discussions about data science.
 
 -*Email:* phillipagj@gmail.com 
+
 -*GitHub:* Send me a message or open an issue on one of my projects: [PhillipaGJ GitHub Profile](https://github.com/PhillipaGJ)
+
 -*LinkedIn:* <i class="fa-brands fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/phillipa-gowdy-jaehnig-340879145/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BAMOjZCYmSE2qxwVC%2Ftvc3Q%3D%3D)

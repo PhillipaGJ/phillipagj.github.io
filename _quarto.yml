@@ -7,9 +7,12 @@ website:
     right:
       - text: "Home"
         href: index.qmd
-      - about.qmd
-      - projects.qmd
-      - contact.qmd
+      - text: "About"
+        about.qmd
+      - text: "Projects"
+        projects.qmd
+      - text: "Contact"
+        contact.qmd
       
 page-footer:
   left: "Phillipa Gowdy-Jaehnig"
