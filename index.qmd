@@ -1,9 +1,0 @@
-title:"Welcome"
-
-# Hello, I’m Phillipa Gowdy-Jaehnig
-
-*Applied Economist • Data Scientist • Dedicated Collaborator*
-
-I study Applied Economics at the University of Minnesota.
-
-I believe our world is interconnected, and our research should be, too.
