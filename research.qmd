@@ -1,7 +1,9 @@
 ---
-title: Resarch
+title: Research
 ---
 
 # Research & Projects
 
-GitHub link: https://github.com/PhillipaGJ
+Here is a link to my work:
+
+[PhillipaGJ on GitHub](https://github.com/PhillipaGJ)
