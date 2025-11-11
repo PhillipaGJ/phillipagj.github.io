@@ -1,6 +1,8 @@
+---
 title: "Get In Touch"
+---
 
-#Contact Information
+# Contact Information
 
 I welcome professional inquiries, collaboration ideas, or discussions about data science.
 
