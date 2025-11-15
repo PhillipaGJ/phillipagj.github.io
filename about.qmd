@@ -4,7 +4,7 @@ title: "Introduction"
 
 # A Little Bit About Phillipa
 
-![Image of Phillipa hiking at Sandia Crest](images\pgj_albuquerque.jpg){width="3264px"}
+![Image of Phillipa hiking at Sandia Crest](images\pgj_albuquerque.jpg){width="801px"}
 
 Phillipa got her BA from St. John's College, Annapolis MD, a Classics program focusing on writing and classroom discussion. Her senior essay "Is Economics Natural?" was on Adam Smith's _Wealth of Nations_. 
 
