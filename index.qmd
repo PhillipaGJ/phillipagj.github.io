@@ -9,3 +9,5 @@ title: "Welcome"
 I study Applied Economics at the University of Minnesota.
 
 I believe our world is interconnected, and our research should be, too.
+
+![Image of Phillipa](images/pgj_professional_selfie_01.jpg){width="317px"}
